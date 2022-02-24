@@ -1,0 +1,5 @@
+SELECT *
+FROM global_data
+WHERE  year >1872 AND year <2014
+
+

@@ -1,0 +1,3 @@
+SELECT *
+FROM city_data
+WHERE city IN ('Lagos') AND year >1872
